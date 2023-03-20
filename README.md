@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Brandon Tran aka @regice!
-- 👀 I’m interested in iOS development at the moment!
-- 🌱 I’m currently learning Python and reviewing and expanding my knowledge on React Native, NodeJS, and HTML/CSS.
+- 👀 I’m interested in iOS development.
+- 🌱 I’m currently learning Python on Udemy!
 
 <!---
 regice/regice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
