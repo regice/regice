@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Brandon Tran aka @regice!
-- 👀 I’m interested in iOS development.
+- 👋🏻 Hi, I’m Brandon aka @regice!
+- 👀 I’m interested in Mobile development, particularly for iOS.
 - 🌱 I’m currently learning Python on Udemy!
 
 <!---
