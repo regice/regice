@@ -1,6 +1,6 @@
 - 👋🏻 Hi, I’m Brandon aka @regice!
 - 👀 I’m interested in Mobile development, particularly for iOS.
-- 🌱 I’m currently learning Python on Udemy!
+- 🌱 I’m currently learning iOS development from Angela Yu on Udemy!
 - 🤓 I'm also working on Mountaineer, an Arknights fan-site that summarizes upcoming content! It's now up at www.mountaineer.life!
 
 <!---
